@@ -1,10 +1,16 @@
 git add [name of file]
 git commit -m "commit message here"
+git push https://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@github.com/defreeze/data_science_self_study.git
+
 git push -u origin master
 
 git pull -all
 or
 git fetch -all
+
+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
+
+
 
 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
 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
